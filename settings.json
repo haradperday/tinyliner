@@ -1,0 +1,11 @@
+targets:
+  default:
+    build: npm run build
+# build config
+copy:
+  - src/**
+  - package.json
+# build config
+copy:
+  - src/**
+  - package.json
